@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Kanye
 //
-//  Created by Aida Moldaly on 28.05.2022.
+//  Created by tamzimun on 28.05.2022.
 //
 
 import UIKit
